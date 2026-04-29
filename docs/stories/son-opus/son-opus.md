@@ -1,5 +1,5 @@
 ---
-title: Son Öpüş
+title: Son Öpüş Hikaye
 parent: SON ÖPÜŞ
 ---
 # SON ÖPÜŞ
