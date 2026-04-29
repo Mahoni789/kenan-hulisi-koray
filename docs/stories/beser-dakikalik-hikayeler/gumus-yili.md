@@ -1,3 +1,9 @@
+---
+title: Miras Keçe
+parent: Beşer Dakikalık Hikayeler
+nav_order: 1
+---
+
 # Gümüş Yıl
 
 Kasabanın canlı hayvanlar müteahhidi Ali Şahin,
