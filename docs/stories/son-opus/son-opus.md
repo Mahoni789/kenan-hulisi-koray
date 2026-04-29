@@ -1,5 +1,5 @@
 ---
-title: "Son Öpüş"
+title: "Son Öpüş "
 parent: "SON ÖPÜŞ"
 ---
 # SON ÖPÜŞ
