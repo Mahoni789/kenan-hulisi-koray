@@ -260,6 +260,7 @@ Kadın:
 Hüseyin tekrar ilerlemek ve atılmak için yürüdü. Kadını omuzlarından tutup yatağa yüzükoyun yatırmak istiyordu... Onu işlenmiş bir deri gibi yere sermek... Fakat kadın bunu anlamış olacak ki daha evvel davrandı, birdenbire üzerine çöktü. Hüseyin, bu vakitsiz hücumun nereden geldiğini anlamamıştı bile... Bir devenin altında kalmış bir buzağı gibi inledi, ıhladı. Dişlerini kadının bileklerine doğru batırmaya çalıştı. Dili, bir sümüklüböcek gibi tuhaf bir salya çıkardı. Sonra ikisi de yuvarlandılar. Tıpkı bir köstebek gibi, katı bir topaç gibi kapıya sürüklendiler. Kapı açıktı. Hüseyin dış ve çıplak sofanın üstünde kıçının acıdığını hissetti, bir çivi kolunu yırttı. Bir taraftan küfrediyor ve kalkmaya çalışıyordu. Kadın musluğun yanında asılı halatı çekti, Hüseyin oğlu Hüseyin’i avluya fırlattı. Kavak ağacına kadar sürdü ve bir domuz gibi ağaca sırtüstü gerip bağladı. Sonra içeriye girdi. Ömer’in ahır kapısına hayvanlar için hazırladığı su kovasını aldı. Bir kısrağın hayalarını yıkar gibi don yemiş suyu egzamalı Hüseyin’in yüzüne çarptı. Onu ayazda bıraktı.
 
 \*\*\*
+{: .text-center }
 
 Bütün bunlardan başka geçen bir yıldan beri Gümüş’ün toprak işleri fena gidiyordu. Akviran değirmeni basıldığı zaman da çuvallardan üçü kaybolmuş, ikisi çamura dökülmüştü. Öküzlerden birinin ayağı topallıyordu. Üstelik vergi vaktiydi. Neredeyse bir hükümet adamı, yanında bir jandarmayla tarlaya dikiliverecek, ileri geri söz edecekti.
 
@@ -465,6 +466,7 @@ Ilık bir gece yarısıydı. Bir haftadan beri yağan kar durmuştu. Gökyüzü 
 İyi bir kısrakla on dakikalık yolda bunları uzun bir hikâye gibi hatırladı. Evlenmeye karar verdiği geceyi düşündü. Tam iki ay evvel\! Kendi kendine güldü, böyle yapmakla iyi ettiğini söyledi.
 
 \*\*\*
+{: .text-center }
 
 Kısrağı ahıra çekip başına yem torbasını geçirdikten sonra hayvanın terini kuruladı, içeri girdi.
 
@@ -720,6 +722,7 @@ Ağılda onbaşı bir saniyede silinivermişti. Son dakikaya kadar bir gölgeden
 Ömer geceleri uyandığı zaman Karaorman’ı bırakıp köye doğru kaçıp gitmek, kar ve tipi dinlemeksizin buğday çuvallarının kilitlendiği yerde çoban köpekleriyle şakalaşmak istiyordu. Belki de kurtlar, yine birer birer burunlarını yerde sürüyerek ağılların kenarında dolaşıyorlardı. Hâlbuki Ömer gittikten sonra Akviran’da onları vuracak kimse kalmamıştı. Ara sıra beyaz ve hiç çiğnenmemiş taze kar üzerinde sabahları uyanır uyanmaz kurtların ayak izlerini arıyor, eğer onları bulursa dakikalarca bu izleri garip bir hareketle koklayarak Karaorman’ın sınırlarına kadar uzamaktan çekinmiyordu. Fakat birdenbire izler kayboluyor, yeni yağan karlar bu izleri toprak altı bir tabaka gibi yavaş yavaş kapamaya çalışıyorlardı. Ya kurtlar Karaorman’ın dört bir tarafında birleşerek Akviran’ı sardılarsa? Kulaklarında vakit vakit onbaşının seslerini işitiyor, Akviran sınırlarında ihtiyar köylülerin aç kurtlarla boğuştuğunu hayal ediyordu.
 
 \*\*\*
+{: .text-center }
 
 Ömer eşkıyaları on beş günde Ambarlı’ya süreceğini düşünürken tam iki ay hiçbir şey yapamadı. Kar, Kızılca’dan itibaren bütün geçitleri o kadar kapamıştı ki kış, Karaorman’ı âdeta muhasara etmiş gibiydi. Hepsi de toprak altında böcekler gibi yaşıyorlar ve bir tarla faresi gibi ilk sıcaklığı bekliyorlardı. Çünkü dağ etekleri ile ormanda ilkyazı onlar duyarlardı. Belki de bunu burunlarından daha fazla kuyruklarıyla hissediyorlar ve ilk gün yalazları, karları eritmeye başladığı zaman dağ farelerinin donmuş bir sicim gibi kaskatı kuyrukları evvela uçlarından itibaren yavaş yavaş harekete geliyor, sivri yüzlerinde burunlarının iki tarafına iliştirilmiş birer boncuk kadar küçük gözleri ancak o vakit açılıyor ve burunları koku almaya başlıyordu.
 
@@ -811,6 +814,7 @@ Ve köy kâtibinin oğlu Ali, Ambarlı çiftliklerinin arkasını dolaşarak Akv
 – Akviran’ı iki saatte alır, diyordu. İş jandarmalarda...
 
 \*\*\*
+{: .text-center }
 
 Akşama yakın Ambarlı’da bütün ağıllar boşaltılmıştı. Ekin mevsimi için saklanmış tohumluk buğday çuvalları hayvanlara vuruluyor, yükte hafif pahada ağır ne varsa Karaorman’a doğru sürülüp götürülmek için hazırlanıyordu.
 
@@ -904,6 +908,7 @@ Haber, Akviran’a bir gün içinde yayıldı.
 Kızılca’dan Armutlu ve Kalecik’e kadar davullar çıkarak eğer eşkıya aileleri varsa hükümetin bunları rehin tutacağı bildirildi. Bütün kasabada Oğlak Ömer’in bir eşkıya olduğu konuşuldu.
 
 \*\*\*
+{: .text-center }
 
 Çiçekli tepelerinde beyaz bir kuşluk sökerken muhtar iki jandarmayla çiftlik yoluna çıktığı vakit gene Ömer’i düşünüyordu:
 
@@ -1337,6 +1342,7 @@ Ali Çavuş’a döndü:
 – Biz seni eşkıya biliyoruz oğul. Dört ay evvel Ambarlı’yı basan sen değil misin? Hükümet bütün köylere davul çıkardı, seni haber verdi. Ömer dağa çıkmış dedi. Karını rehin olarak tuttular. Öküzlerin de Akviran muhtarında. İki gün evvel jandarmalar Gümüş’ü Tercan’a götürmek için yola çıktılar. Allah bilir ama belki de şimdi Demirci’de geceliyorlar\!
 
 \*\*\*
+{: .text-center }
 
 Oğlak Ömer, aynı gün dört eşkıyayla beraber Akviran üzerinden Demirci’ye doğru uzuyordu. Üç saate kadar Demirci’de olmazsa belki de jandarmalar Tercan’a alıp götürmüş olacaklar\! Hâlbuki Ömer, karısını vilayete götüren jandarmalara Demirci’den de daha gerilerde rast gelmek istiyor, onu kurtarmak yahut kendi götürmeyi tercih ediyordu. Daha sonra jandarmalar yedi kişiydi. Oğlak Ömer yanındaki dört eşkıyayla jandarmaların yanına kadar sokulmayı tasarlıyor ve son bir defa düşündüğü bir tuzakla dört elebaşıyı Demirci’ye doğru çekerek orada teslim almak için plan kuruyordu.
 
