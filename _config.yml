@@ -16,7 +16,7 @@
 title: Külliyat
 description: A Jekyll theme for documentation
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mahoni789.github.io/kenan-hulusi-koray" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mahoni789.github.io/kenan-hulusi-koray/" # the base hostname & protocol for your site, e.g. http://example.com
 repository: Mahoni789/kenan-hulusi-koray # for github-metadata
 
 permalink: pretty
