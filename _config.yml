@@ -21,8 +21,6 @@ repository: just-the-docs/just-the-docs # for github-metadata
 
 permalink: pretty
 
-# Theme settings
-remote_theme: just-the-docs/just-the-docs@v0.12.0
 
 # Default layouts for each collection type
 defaults:
