@@ -1,6 +1,6 @@
 ---
-title: Son Öpüş Hikaye
-parent: SON ÖPÜŞ
+title: "Son Öpüş Hikaye"
+parent: "SON ÖPÜŞ"
 ---
 # SON ÖPÜŞ
 
