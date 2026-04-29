@@ -1,6 +1,6 @@
 ---
 title: "Çalınan Tarla"
-parent: SON ÖPÜŞ
+parent: "SON ÖPÜŞ"
 ---
 # ÇALINAN TARLA
 
