@@ -1,7 +1,7 @@
 ---
-title: Miras Keçe
+title: Gümüş Yıl
 parent: Beşer Dakikalık Hikayeler
-nav_order: 1
+nav_order: 2
 ---
 
 # Gümüş Yıl
