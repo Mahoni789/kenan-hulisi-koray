@@ -1,4 +1,9 @@
-# Miras Keçe
+---
+title: Miras Keçe
+parent: Beşer Dakikalık Hikayeler
+nav_order: 1
+---
+
 
 Biz insanlar, şu etrafımızdaki cansız şeyler için ne biliyoruz? Yatak odalarımızın bir tarafında yahut başucumuzda duran şu komodin, içinde yattığımız şu karyola, üzerinde yemek yediğimiz masalar, duvardaki bir çerçeve, hulâsa evimizi teşkil eden bütün bu şeyler hakkındaki bilgilerimizin derecesi nedir? Galiba koca bir sıfır!
 
