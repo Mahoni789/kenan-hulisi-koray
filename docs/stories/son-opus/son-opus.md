@@ -1,6 +1,6 @@
 ---
 title: Son Öpüş
-parent: Son Öpüş
+parent: SON ÖPÜŞ
 ---
 # SON ÖPÜŞ
 
