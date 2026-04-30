@@ -1,5 +1,6 @@
 ---
 title: Sonu Bir Şarkı
+parent: "Beşer Dakikalık Hikayeler"
 nav_order: 29
 description: "Vakit Gazetesi, Nu. 8347, 10 Nisan 1941."
 ---
