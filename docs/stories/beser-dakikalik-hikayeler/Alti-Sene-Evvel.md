@@ -1,6 +1,6 @@
 ---
 title: Altı Sene Evvel
-parent: "Beşer Dakikalik Hikayeler"
+parent: "Beşer Dakikalık Hikayeler"
 nav_order: 3
 description: "Vakit Gazetesi, Nu. 8230, 8 Birincikânun 1940."
 ---
