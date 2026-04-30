@@ -1,5 +1,6 @@
 ---
 title: Eller Yukarı
+parent: "Beşer Dakikalık Hikayeler"
 nav_order: 30
 description: "Vakit Gazetesi, Nu: 8348, 11 Nisan 1941"
 ---
