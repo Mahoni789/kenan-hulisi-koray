@@ -1,5 +1,6 @@
 ---
 title: Yol Amelesi
+parent: "Beşer Dakikalık Hikayeler"
 nav_order: 20
 description: "Vakit Gazetesi, Nu. 8300-8301, 20-21 Şubat 1941."
 ---
