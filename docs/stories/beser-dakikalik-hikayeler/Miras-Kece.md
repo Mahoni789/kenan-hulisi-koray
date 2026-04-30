@@ -1,5 +1,6 @@
 ---
 title: Miras Keçe
+parent: "Beşer Dakikalık Hikayeler"
 nav_order: 1
 description: "Vakit Gazetesi, Nu. 8226, 4 Birincikânun 1940."
 ---
