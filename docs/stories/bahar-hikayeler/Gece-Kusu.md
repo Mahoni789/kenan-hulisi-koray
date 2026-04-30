@@ -2,7 +2,7 @@
 title: Gece Kuşu
 parent: Bahar Hikayeleri
 nav_order: 6
-description: "Tan, No: 1214, 17 lkkânun 1938"
+description: "Tan, No: 1214, 17 İlkkânun 1938"
 ---
 # Gece Kuşu
 
