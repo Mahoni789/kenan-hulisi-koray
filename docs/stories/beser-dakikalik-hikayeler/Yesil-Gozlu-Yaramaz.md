@@ -1,5 +1,6 @@
 ---
 title: Yeşil Gözlü Yaramaz
+parent: "Beşer Dakikalık Hikayeler"
 nav_order: 13
 description: "Vakit Gazetesi, Nu. 8263, 19 İkincikânun 1941."
 ---
