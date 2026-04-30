@@ -1,5 +1,6 @@
 ---
 title: Turna Mevsimi
+parent: "Beşer Dakikalık Hikayeler"
 nav_order: 28
 description: "Vakit Gazetesi, Nu. 8345, 8 Nisan 1941."
 ---
