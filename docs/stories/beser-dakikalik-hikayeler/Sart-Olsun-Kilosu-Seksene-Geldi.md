@@ -1,5 +1,6 @@
 ---
 title: Şart Olsun Kilosu Seksene Geldi
+parent: "Beşer Dakikalık Hikayeler"
 nav_order: 27
 description: "Vakit Gazetesi, Nu. 8344, 7 Nisan 1941."
 ---
