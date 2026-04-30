@@ -2,7 +2,7 @@
 title: Dörthanlar’ın Kulaksızı
 parent: Bahar Hikayeleri
 nav_order: 3
-description: "Vakit/Kurun, No: 7123-7132, 8-17 İkinciteşrin 1937"
+description: "Vakit/Kurun, No: 7123-7132, 8-17 İkinciteşrin 1937"
 ---
 # Dörthanlar’ın Kulaksızı
 
