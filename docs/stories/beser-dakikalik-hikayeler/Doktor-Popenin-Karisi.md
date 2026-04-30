@@ -1,5 +1,6 @@
 ---
 title: Doktor Popen’in Karısı
+parent: "Beşer Dakikalık Hikayeler"
 nav_order: 33
 description: "Vakit Gazetesi, No: 8360, 23 Nisan 1941"
 ---
