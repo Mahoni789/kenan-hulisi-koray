@@ -1,5 +1,6 @@
 ---
 title: Tuhaf İnsanlar
+parent: "Beşer Dakikalık Hikayeler"
 nav_order: 2
 description: "Vakit Gazetesi, Nu. 8229, 7 Birincikânun 1940."
 ---
