@@ -1,5 +1,6 @@
 ---
 title: Satılık Kısrak
+parent: "Beşer Dakikalık Hikayeler"
 nav_order: 10
 description: "Vakit Gazetesi, Nu. 8260, 8 İkincikânun 1941."
 ---
