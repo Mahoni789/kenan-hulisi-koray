@@ -1,5 +1,6 @@
 ---
 title: Cumali
+parent: "Beşer Dakikalık Hikayeler"
 nav_order: 21
 description: "Vakit Gazetesi, Nu. 8304-8307, 24-27 Şubat 1941."
 ---
