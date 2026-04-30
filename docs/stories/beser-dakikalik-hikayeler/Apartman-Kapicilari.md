@@ -1,6 +1,6 @@
 ---
 title: Apartman Kapıcıları
-parent: "Beşer Dakikalik Hikayeler"
+parent: "Beşer Dakikalık Hikayeler"
 nav_order: 19
 description: "Vakit Gazetesi, Nu. 8297, 17 Şubat 1941."
 ---
