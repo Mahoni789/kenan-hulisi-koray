@@ -1,5 +1,6 @@
 ---
 title: Gümüş Yıl
+parent: "Beşer Dakikalık Hikayeler"
 nav_order: 8
 description: "Vakit Gazetesi, Nu. 8244, 22 Birincikânun 1940."
 ---
