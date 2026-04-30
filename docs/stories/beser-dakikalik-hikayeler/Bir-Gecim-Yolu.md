@@ -1,5 +1,6 @@
 ---
 title: Bir Geçim Yolu
+parent: "Beşer Dakikalık Hikayeler"
 nav_order: 4
 description: "Vakit Gazetesi, Nu. 8232, 10 Birincikânun 1940."
 ---
