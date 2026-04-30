@@ -1,5 +1,6 @@
 ---
 title: Belki Bir İllüzyon
+parent: "Beşer Dakikalık Hikayeler"
 nav_order: 18
 description: "Vakit Gazetesi, Nu. 8287-8288, 7-8 Şubat 1941."
 ---
