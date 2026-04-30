@@ -1,5 +1,6 @@
 ---
 title: Sağ Elin Parmakları
+parent: "Beşer Dakikalık Hikayeler"
 nav_order: 26
 description: "Vakit Gazetesi, Nu. 8343, 6 Nisan 1941."
 ---
