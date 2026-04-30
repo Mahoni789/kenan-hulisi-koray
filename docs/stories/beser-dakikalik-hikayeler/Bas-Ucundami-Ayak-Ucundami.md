@@ -1,6 +1,6 @@
 ---
 title: Baş Ucunda mı Ayak Ucunda mı
-parent: "Beşer Dakikalik Hikayeler"
+parent: "Beşer Dakikalık Hikayeler"
 nav_order: 32
 description: "Vakit Gazetesi, No: 8358, 21 Nisan 1941"
 ---
