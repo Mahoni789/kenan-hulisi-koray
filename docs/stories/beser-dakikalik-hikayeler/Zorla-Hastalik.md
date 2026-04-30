@@ -1,5 +1,6 @@
 ---
 title: Zorla Hastalık
+parent: "Beşer Dakikalık Hikayeler"
 nav_order: 17
 description: "Vakit Gazetesi, Nu. 8283, 3 Şubat 1941."
 ---
