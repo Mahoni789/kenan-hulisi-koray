@@ -1,5 +1,6 @@
 ---
 title: Küçük Yalanlar
+parent: "Beşer Dakikalık Hikayeler"
 nav_order: 5
 description: "Vakit Gazetesi, Nu. 8234, 12 Birincikânun 1940."
 ---
