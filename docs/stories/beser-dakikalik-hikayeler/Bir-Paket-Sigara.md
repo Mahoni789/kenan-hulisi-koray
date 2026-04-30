@@ -1,5 +1,6 @@
 ---
 title: Bir Paket Sigara
+parent: "Beşer Dakikalık Hikayeler"
 nav_order: 23
 description: "Vakit Gazetesi, Nu. 8318, 10 Mart 1941."
 ---
