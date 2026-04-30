@@ -1,5 +1,6 @@
 ---
 title: Cevizler
+parent: "Beşer Dakikalık Hikayeler"
 nav_order: 7
 description: "Vakit Gazetesi, Nu. 8241, 19 Birincikânun 1940."
 ---
