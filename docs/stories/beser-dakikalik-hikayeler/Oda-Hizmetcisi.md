@@ -1,5 +1,6 @@
 ---
 title: Oda Hizmetçisi
+parent: "Beşer Dakikalık Hikayeler"
 nav_order: 9
 description: "Vakit Gazetesi, 31 Birincikânun 1940."
 ---
