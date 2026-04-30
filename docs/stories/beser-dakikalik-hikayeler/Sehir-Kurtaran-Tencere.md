@@ -1,5 +1,6 @@
 ---
 title: Şehir Kurtaran Tencere
+parent: "Beşer Dakikalık Hikayeler"
 nav_order: 15
 description: "Vakit Gazetesi, Nu. 8279, 30 İkincikânun 1941."
 ---
