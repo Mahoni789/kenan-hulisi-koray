@@ -1,5 +1,6 @@
 ---
 title: Bir Beyaz Rus
+parent: "Beşer Dakikalık Hikayeler"
 nav_order: 12
 description: "Vakit Gazetesi, Nu. 8264-8265, 15-16 Ikincikânun 1941."
 ---
