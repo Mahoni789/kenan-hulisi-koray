@@ -1,5 +1,6 @@
 ---
 title: Yolda
+parent: "Beşer Dakikalık Hikayeler"
 nav_order: 14
 description: "Vakit Gazetesi, Nu. 8270, 21 İkincikânun 1941."
 ---
