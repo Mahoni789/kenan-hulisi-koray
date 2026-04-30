@@ -1,6 +1,6 @@
 ---
 title: 910 Modeli
-parent: "Beşer Dakikalik Hikayeler"
+parent: "Beşer Dakikalık Hikayeler"
 nav_order: 6
 description: "Vakit Gazetesi, Nu. 8236, 14 Birincikânun 1940."
 ---
