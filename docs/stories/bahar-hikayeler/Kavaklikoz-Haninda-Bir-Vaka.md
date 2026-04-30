@@ -1,5 +1,6 @@
 ---
 title: Kavaklıkoz Hanı’nda Bir Vaka
+parent: Bahar Hikayeleri
 nav_order: 2
 description: ""
 ---
