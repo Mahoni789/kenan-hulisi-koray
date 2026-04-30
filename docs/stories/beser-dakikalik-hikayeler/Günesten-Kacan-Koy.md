@@ -1,5 +1,6 @@
 ---
 title: Güneşten Kaçan Köy
+parent: "Beşer Dakikalık Hikayeler"
 nav_order: 25
 description: "Vakit Gazetesi, Nu. 8340, 3 Nisan 1941."
 ---
