@@ -1,5 +1,6 @@
 ---
 title: Tarlaya Çevrilen Su
+parent: Bahar Hikayeleri
 nav_order: 1
 description: "Tan, No: 1152-54, 14-16 Temmuz 1938"
 ---
