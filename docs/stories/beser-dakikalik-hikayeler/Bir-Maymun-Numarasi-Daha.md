@@ -1,5 +1,6 @@
 ---
 title: Bir Maymun Numarası Daha
+parent: "Beşer Dakikalık Hikayeler"
 nav_order: 11
 description: "Vakit Gazetesi, Nu. 8261,12 İkincikânun 1941."
 ---
