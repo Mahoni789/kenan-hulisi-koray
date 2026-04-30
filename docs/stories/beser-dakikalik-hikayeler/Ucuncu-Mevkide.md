@@ -1,5 +1,6 @@
 ---
 title: Üçüncü Mevkide
+parent: "Beşer Dakikalık Hikayeler"
 nav_order: 16
 description: "Vakit Gazetesi, Nu. 8281,1 Şubat 1941."
 ---
