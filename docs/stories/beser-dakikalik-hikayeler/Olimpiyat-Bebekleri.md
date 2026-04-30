@@ -1,5 +1,6 @@
 ---
 title: Olimpiyat Bebekleri
+parent: "Beşer Dakikalık Hikayeler"
 nav_order: 24
 description: "Vakit Gazetesi, Nu. 8334-8335, 28-29 Mart 1941."
 ---
