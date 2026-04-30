@@ -1,5 +1,6 @@
 ---
 title: Amerika’ya Giden Asmakabağı
+parent: "Beşer Dakikalik Hikayeler"
 nav_order: 22
 description: "Vakit Gazetesi, Nu. 8315, 7 Mart 1941."
 ---
