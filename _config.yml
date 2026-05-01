@@ -134,7 +134,7 @@ callouts:
     color: green
   note:
     title: Not
-    color: grey-lt-300
+    color: grey-lt
   warning:
     title: Uyarı
     color: red
