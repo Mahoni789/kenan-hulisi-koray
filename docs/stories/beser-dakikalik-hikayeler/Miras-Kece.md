@@ -110,9 +110,11 @@ Hakikaten bizim keçeydi. Bir sedirin üzerinde duruyordu. Tek başınaydı. Yuk
 
 Hepimiz bir adım geri çekildik. Zaten kalın bir kordon bizi birbirimizden ayırıyor; aramıza âdetâ denizler, okyanuslar, servetler ve asırlar koyuyordu. Ben biraz eğildim ve keçe hazretlerinin hemen üzerine bırakılmış olan levhayı okumaya çalıştım:
 
-*Dokuzuncu asır mamulatından \(Hicrî 1090\)*
-*Anadolu Selçukîleri zamanına ait*
+---
+Dokuzuncu asır mamulatından (Hicrî 1090)\\
+Anadolu Selçukîleri zamanına ait
 {: .text-mono }
+---
 
 Halam duramadı. Elini uzatmak, parmaklarıyla yoklamak istedi. Fakat birdenbire yan tarafımızda odacılardan biri atıldı:
 
