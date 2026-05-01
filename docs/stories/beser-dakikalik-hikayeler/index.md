@@ -4,6 +4,7 @@ parent: Hikayeler
 nav_order: 10
 ---
 
+{: .text-center }
 ![](IMG_5929.jpeg)
 
 
