@@ -85,8 +85,8 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
-    - "https://github.com/just-the-docs/just-the-docs"
+  "Külliyat":
+    - "/"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
@@ -141,16 +141,16 @@ callouts:
   highlight:
     color: yellow
   important:
-    title: Important
+    title: Önemli
     color: blue
   new:
-    title: New
+    title: Yeni
     color: green
   note:
-    title: Note
-    color: grey-dk
+    title: Not:
+    color: grey-dk-000
   warning:
-    title: Warning
+    title: Uyarı
     color: red
 
 # Google Analytics Tracking (optional)
