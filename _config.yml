@@ -147,8 +147,8 @@ callouts:
     title: Yeni
     color: green
   note:
-    title: "Not:"
-    color: grey-dk-000
+    title: Not
+    color: grey-dk
   warning:
     title: Uyarı
     color: red
