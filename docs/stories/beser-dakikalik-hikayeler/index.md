@@ -4,9 +4,8 @@ parent: Hikayeler
 nav_order: 10
 ---
 
-{: .text-center }
-![](IMG_5929.jpeg)
-
+## İçindekiler
+{: .no_toc .text-delta }
 
 1. TOC
 {:toc}
