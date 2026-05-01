@@ -13,7 +13,7 @@ permalink: /
 1934’te *Vakıt Gazetesi*’nde yazmaya başladı ve kısa bir süre sonra da gazetenin yazıişleri müdürü oldu. Adapazarı’nda askerliğini yaparken tifüsten vefat etti.
 {: .fs-5 .fw-300 }
 
-Yaşarken yayımladığı [Bir Yudum Su], [Son Öpüş], [Bahar Hikayeleri], [Bir Otelde 7 Kisi] hikâye kitabına ilâveten, *Osmanoflar* adında bir romanı da vardır.
+Yaşarken yayımladığı [Bir Yudum Su], [Son Öpüş], [Bahar Hikayeleri], [Bir Otelde 7 Kisi] hikâye kitaplarına ilâveten, *Osmanoflar* adında bir romanı da vardır.
 
 
 [Bir Yudum Su]: https://mahoni789.github.io/kenan-hulisi-koray/docs/stories/bir-yudum-su/
