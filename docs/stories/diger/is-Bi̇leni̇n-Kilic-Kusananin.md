@@ -4,7 +4,7 @@ title: İş Bi̇leni̇n, Kılıç Kuşananın
 parent: Kitaplarına Girmeyen Hikayeler
 ---
 
-# İş Bi̇leni̇n, Kiliç Kuşananin
+# İş Bi̇leni̇n, Kılıç Kuşananın
 
 Bazılarımızın dalkavuklukla mevki sahibi olduğunu niçin itiraf
 etmeyelim? Hem bu insani bir suçtur. Nasıl biz doğarken burun, göz,
