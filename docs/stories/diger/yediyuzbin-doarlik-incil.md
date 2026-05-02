@@ -1,10 +1,10 @@
 ---
 desc: "\"\\<em\\>Vakit\\</em\\>, 9 Mayıs 1942\""
-title: Yedi̇ Yüz Bi̇n Dolarlik İnci̇l
+title: Yedi̇ Yüz Bi̇n Dolarlık İnci̇l
 parent: Kitaplarına Girmeyen Hikayeler
 ---
 
-# Yedi̇ Yüz Bi̇n Dolarlik İnci̇l
+# Yedi̇ Yüz Bi̇n Dolarlık İnci̇l
 
 *Nevyork Post* gazetesi Yakın Doğu muhabiri Con Ceymis, Vank köyü
 kilisesini metruk bir halde buldu.
