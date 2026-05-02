@@ -4,7 +4,7 @@ parent: Kitaplarına Girmeyen Hikayeler
 title: Sazlık
 ---
 
-# Sazlik
+# Sazlık
 
 Sabahleyin göle yıkanmak üzere gelen çocuklar Sapancalı Ali Reis’i
 sazlık kenarında buldular.
