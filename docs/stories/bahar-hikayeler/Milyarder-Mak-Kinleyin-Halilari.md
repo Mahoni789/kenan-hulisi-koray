@@ -2,7 +2,7 @@
 title: Milyarder Mak Kinley’in Halıları
 parent: Bahar Hikayeleri
 nav_order: 5
-description: "Varlık, C: 6, No: 124, 1 Eylül 1938"
+description: "Yeni Türk Mecmuası, C: 1, No: 18, Şubat 1934"
 ---
 # Milyarder Mak Kinley’in Halıları
 
