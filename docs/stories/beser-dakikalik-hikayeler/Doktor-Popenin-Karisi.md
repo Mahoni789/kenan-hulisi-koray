@@ -36,10 +36,10 @@ Zaten bunu söylemeseler bile her ikisine de kelimelerin üstünde kalan bir man
 
 “İyi,” dedim, “ben de emirlerinize hazırım.” Hemen piyanoya geçtim. Kulaklarımda Zara Leandr’ın sesi ve gözlerimde cins bir erkek iştiyakıyla şunu söylemeye başladım:
 
-> Teşekkür edendim dostum, bugünümüz çok güzeldi
-> Sana daha binlerce şey söylemek istiyorum
-> Fazla vakit geçirmeden yine gel
-> Belki bugün her hareketimi anlayamazsın
+> Teşekkür edendim dostum, bugünümüz çok güzeldi\\
+> Sana daha binlerce şey söylemek istiyorum\\
+> Fazla vakit geçirmeden yine gel\\
+> Belki bugün her hareketimi anlayamazsın\\
 > Fakat gelecek defa her şeyi öğreneceksin.
 
 Bununla beraber, şarkıyı bitirdim bitirmedim ki, Doktor Popen’in kızlarını, daha doğrusu gözlerini aramak için yarı döndüğüm bir sıra üçüncü ve ilk günden beri kapalı duran kapı açılmıştı. Sarı benizli bir kadın kapıda bir puttan daha sakin duruyordu ve ne garip, teyzem, eyzemden şu kadar farkı yoktu. Popen’in büyük kızım
