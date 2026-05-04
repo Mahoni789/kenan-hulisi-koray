@@ -4,7 +4,7 @@ parent: "SON ÖPÜŞ"
 ---
 # ÇALINAN TARLA
 
-Yetimoğlu ==şunun bunun== için değil, Yusufeli’ne dosdoğru iş aramak için geliyordu.
+Yetimoğlu şunun bunun için değil, Yusufeli’ne dosdoğru iş aramak için geliyordu.
 
 Kars’ın Samanlı köyünden çıktığı dakikalar yolda şunları düşündü:
 
